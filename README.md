@@ -1,1 +1,1 @@
-# Computer-Vision-and-Mashine-Learning
+# Image Processing and Machine Vision
